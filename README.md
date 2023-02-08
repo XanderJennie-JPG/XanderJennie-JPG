@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @XanderJennie-JPG
-- 👀 I’m a Junior Product Manager
-- 🌱 I’m currently learning more technical stuff like Coding! [Starting with Java]
-- 💞️ I’m looking to collaborate on anything that will help me improve my technical skills
-- 📫 Feel free to link with me on LinkedIn!
+<h3 align="center">Hello!🙋‍♂️</h3>
+
+<p align="center">
+  I'm a Junior Product Manager dabbling with some code!
+  <br>
+    ·
+      <a href="https://www.linkedin.com/in/xander-jennie/">Connect with me on LinkedIn!</a>
+    · 
+</p>
+<p align="center">
+  Next to work, I'm also a final year, IT - Innovative Development Student at The Hague University of Applied Sciences.
+</p>
 
 <!---
 XanderJennie-JPG/XanderJennie-JPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
