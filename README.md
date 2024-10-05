@@ -1,14 +1,16 @@
 <h3 align="center">Hello!🙋‍♂️</h3>
 
 <p align="center">
-  I'm a Junior Product Manager dabbling with some code!
+  I'm a Product Manager dabbling with some code!
   <br>
     ·
       <a href="https://www.linkedin.com/in/xander-jennie/">Connect with me on LinkedIn!</a>
     · 
 </p>
 <p align="center">
-  Next to work, I'm also a final year, IT - Innovative Development Student at The Hague University of Applied Sciences.
+  Next to work, I dabble with developing small applications, trying out new cuisines, and exploring nature in various parks. <br>
+  My journey is fueled by curiosity and a continuous desire to learn and grow.<br>
+  Graduated as Cum Laude with my Bachelor's degree in Innovative Development at The Hague University of Applied Sciences.
 </p>
 
 <!---
